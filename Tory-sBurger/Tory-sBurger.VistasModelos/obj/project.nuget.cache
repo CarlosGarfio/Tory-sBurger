@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3iDqsQAxyzyGWSQnckJ5N8h+/8BE/1ld1b9xv1kd6eSs6VGH1QXbDv1oF+QTe9XJrpT9anHpe7TA9VYf3EWJLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gmcar\\source\\repos\\Tory-sBurger\\Tory-sBurger\\Tory-sBurger.VistasModelos\\Tory-sBurger.VistasModelos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmcar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gmcar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

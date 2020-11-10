@@ -1,0 +1,14 @@
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\bin\Debug\netstandard2.0\Tory-sBurger.deps.json
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\bin\Debug\netstandard2.0\Tory-sBurger.dll
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\bin\Debug\netstandard2.0\ref\Tory-sBurger.dll
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\bin\Debug\netstandard2.0\Tory-sBurger.pdb
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\obj\Debug\netstandard2.0\Tory-sBurger.csprojAssemblyReference.cache
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\obj\Debug\netstandard2.0\Tory-sBurger.AssemblyInfoInputs.cache
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\obj\Debug\netstandard2.0\Tory-sBurger.AssemblyInfo.cs
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\obj\Debug\netstandard2.0\Tory-sBurger.csproj.CoreCompileInputs.cache
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\obj\Debug\netstandard2.0\Tory-sBurger.dll
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\obj\Debug\netstandard2.0\ref\Tory-sBurger.dll
+C:\Users\gmcar\source\repos\Tory-sBurger\Tory-sBurger\Tory-sBurger\Tory-sBurger\obj\Debug\netstandard2.0\Tory-sBurger.pdb
