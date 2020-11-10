@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tj2maBYpgsqdjOxJ88q4PBPH888zG9+PNeCi4arBI4cCpX9bFNkMk/Lmfb7+W1B7HqVPxjfp9T0GSFqTPF/PiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gmcar\\source\\repos\\Tory-sBurger\\Tory-sBurger\\Tory-sBurger\\Tory-sBurger.iOS\\Tory-sBurger.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
